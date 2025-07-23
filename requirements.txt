@@ -1,0 +1,4 @@
+apt install socket
+pip install threading
+pip install random
+pip install time
